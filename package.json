@@ -1,0 +1,22 @@
+{
+  "name": "object-etl",
+  "version": "1.0.0",
+  "description": "Extract Transform Load objects with a Streamable-like approach",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frankandoak/object-etl.git"
+  },
+  "keywords": [
+    "etl"
+  ],
+  "author": "David Moreau <dav.m85@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/frankandoak/object-etl/issues"
+  },
+  "homepage": "https://github.com/frankandoak/object-etl#readme"
+}
